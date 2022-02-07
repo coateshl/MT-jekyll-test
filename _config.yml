@@ -8,15 +8,15 @@ doks:
             image:
         nav:
             - item_name: Home
-              item_url: 'MT-jekyll-test/index'
+              item_url: 'index'
             - item_name: Choose Metrics
-              item_url: 'MT-jekyll-test/choose'
+              item_url: 'choose'
             - item_name: Resources
-              item_url: 'MT-jekyll-test/resources'
+              item_url: 'resources'
             - item_name: About
-              item_url: 'MT-jekyll-test/about'
+              item_url: 'about'
             - item_name: Schema
-              item_url: 'MT-jekyll-test/schema'
+              item_url: 'schema'
 
               
     footer:
