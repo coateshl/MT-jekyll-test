@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl: /MT-jekyll-test
+    baseurl: 
     color_theme: blue # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
@@ -8,15 +8,15 @@ doks:
             image:
         nav:
             - item_name: Home
-              item_url: 'index'
-            - item_name: Browse Metrics
-              item_url: 'browse'
+              item_url: 'MT-jekyll-test/index'
+            - item_name: Choose Metrics
+              item_url: 'MT-jekyll-test/choose'
             - item_name: Resources
-              item_url: 'resources'
+              item_url: 'MT-jekyll-test/resources'
             - item_name: About
-              item_url: 'about'
+              item_url: 'MT-jekyll-test/about'
             - item_name: Schema
-              item_url: 'schema'
+              item_url: 'MT-jekyll-test/schema'
 
               
     footer:
