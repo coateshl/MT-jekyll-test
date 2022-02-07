@@ -8,16 +8,16 @@ title: Metrics Toolkit
 description: Helping you navigate the research metrics landscape
 buttons:
     - content: Choose Metrics
-      url: 'choose'
+      url: '/choose'
       external_url: false
     - content: Learn More About the Toolkit
-      url: 'about'
+      url: '/about'
       external_url: false
 
 # Author box
 author:
     title: Editorial Board
-    title_url: 'edboard'
+    title_url: '/edboard'
     external_url: false
     description: Current members of our Editorial Board
 
