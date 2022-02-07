@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl: https://coates.github.io/MT-jekyll-test
+    baseurl: https://coateshl.github.io/MT-jekyll-test
     color_theme: blue # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
