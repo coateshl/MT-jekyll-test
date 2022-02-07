@@ -12,18 +12,18 @@ description: Helping you navigate the research metrics landscape
 
 ### Citation metrics
 
-[Citation Percentiles and Highly Cited Labels](MT-jekyll-test/posts/highly-cited)
+[Citation Percentiles and Highly Cited Labels](posts/highly-cited)
 
-[h-index](MT-jekyll-test/posts/h-index)
+[h-index](posts/h-index)
 
-[Journal Impact Factor](MT-jekyll-test/posts/journal-impact-factor)
+[Journal Impact Factor](posts/journal-impact-factor)
 
 
 ### Altmetrics
 
-[Altmetric Attention Score](MT-jekyll-test/posts/altmetric-attention-score)
+[Altmetric Attention Score](posts/altmetric-attention-score)
 
-[Blog mentions](MT-jekyll-test/posts/blog-mentions)
+[Blog mentions](posts/blog-mentions)
 
 
 ### Metrics about articles
