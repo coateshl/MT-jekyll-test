@@ -12,18 +12,18 @@ description: Helping you navigate the research metrics landscape
 
 ### Citation metrics
 
-[Citation Percentiles and Highly Cited Labels](/posts/highly-cited)
+[Citation Percentiles and Highly Cited Labels](https://coateshl.github.io/MT-jekyll-test/posts/highly-cited)
 
-[h-index](/posts/h-index)
+[h-index](https://coateshl.github.io/MT-jekyll-test/posts/h-index)
 
-[Journal Impact Factor](/posts/journal-impact-factor)
+[Journal Impact Factor](https://coateshl.github.io/MT-jekyll-test/posts/journal-impact-factor)
 
 
 ### Altmetrics
 
-[Altmetric Attention Score](/posts/altmetric-attention-score)
+[Altmetric Attention Score](https://coateshl.github.io/MT-jekyll-test/posts/altmetric-attention-score)
 
-[Blog mentions](/posts/blog-mentions)
+[Blog mentions](https://coateshl.github.io/MT-jekyll-test/posts/blog-mentions)
 
 
 ### Metrics about articles
