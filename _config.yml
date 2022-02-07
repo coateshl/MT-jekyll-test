@@ -1,0 +1,40 @@
+# Theme settings
+doks:
+    baseurl:
+    color_theme: blue # Available themes: blue (default), green, purple, red and yellow
+    header:
+        logo:
+            text: Metrics Toolkit
+            image:
+        nav:
+            - item_name: Home
+              item_url: '/index'
+            - item_name: Browse Metrics
+              item_url: '/browse'
+            - item_name: Resources
+              item_url: '/resources'
+    footer:
+        content:
+            logo: 
+                text: This site is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+                image: 
+            copyright: 
+        social_list:
+            - network_name: 
+              profile_url: 
+
+    google_analytics:
+        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics - UA-139939429-1
+    comments:
+        disqus_forum_shortname: # Add your disqus forum shortname to activate comments
+
+# SASS settings
+sass:
+    sass_dir: ./doks-theme/_sass
+    style: :compressed
+
+# Jekyll settings
+layouts_dir: ./doks-theme/_layouts
+includes_dir: ./doks-theme/_includes
+exclude: [ 'README.md', 'CHANGELOG.md' ]
+permalink: /:title/
