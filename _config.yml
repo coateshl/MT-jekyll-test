@@ -9,15 +9,15 @@ doks:
             image:
         nav:
             - item_name: Home
-              item_url: 'index'
+              item_url: '/index'
             - item_name: Choose Metrics
-              item_url: 'choose'
+              item_url: '/choose'
             - item_name: Resources
-              item_url: 'resources'
+              item_url: '/resources'
             - item_name: About
-              item_url: 'about'
+              item_url: '/about'
             - item_name: Schema
-              item_url: 'schema'
+              item_url: '/schema'
 
               
     footer:
