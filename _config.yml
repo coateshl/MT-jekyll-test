@@ -1,7 +1,7 @@
 # Theme settings
 doks:
 
-    baseurl: MT-jekyll-test
+    baseurl: /MT-jekyll-theme
     color_theme: blue # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
@@ -11,13 +11,13 @@ doks:
             - item_name: Home
               item_url: 'index'
             - item_name: Choose Metrics
-              item_url: 'https://coateshl.github.io/MT-jekyll-test/choose'
+              item_url: 'choose'
             - item_name: Resources
-              item_url: 'https://coateshl.github.io/MT-jekyll-test/resources'
+              item_url: 'resources'
             - item_name: About
               item_url: 'about'
             - item_name: Schema
-              item_url: 'https://coateshl.github.io/MT-jekyll-test/schema'
+              item_url: 'schema'
 
               
     footer:
