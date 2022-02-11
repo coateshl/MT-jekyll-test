@@ -8,7 +8,7 @@ title: Editorial Board
 description: Our current and former Ed Board members
 ---
 
-#Current Board Members
+# Current Board Members
 
 ### Manolis Antonoyiannakis
 Manolis Antonoyiannakis is an Associate Editor and Bibliostatistics Analyst at the American Physical Society, and an Adjunct Associate Research Scientist at the Department of Applied Physics & Applied Mathematics at Columbia University. He received his PhD in physics from Imperial College London. Manolis has extensive experience on scholarly publishing and research assessment, having handled the peer review of more than 10,000 manuscripts in the Physical Review journals. He is interested in the science of science, information science, and scientometrics. More specifically, he is interested in how data science can be used to study scientific productivity, creativity, behavior, and impact, and he is keen to contribute toward a more sensible use of scholarly metrics that is anchored on solid statistical grounds.
