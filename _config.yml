@@ -30,7 +30,7 @@ doks:
               profile_url: https://github.com/Metrics-Toolkit
 
     google_analytics:
-        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics - UA-139939429-1
+        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics, MT Code = UA-139939429-1
     comments:
         disqus_forum_shortname: # Add your disqus forum shortname to activate comments
 
